@@ -1,1 +1,2 @@
-内容
+config:
+  info: "master branch,springcloud-config/master/config-dev.yml version=1"
